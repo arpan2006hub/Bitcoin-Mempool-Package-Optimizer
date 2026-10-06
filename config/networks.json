@@ -1,0 +1,10 @@
+{
+  "regtest": {
+    "rpc_host": "127.0.0.1",
+    "rpc_port": 18443
+  },
+  "testnet4": {
+    "rpc_host": "127.0.0.1",
+    "rpc_port": 48332
+  }
+}

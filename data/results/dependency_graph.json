@@ -1,0 +1,45 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "txid": "20394431783daadeadf5150756fd3a329be4ac7776fe8975b7026b8ef1134910",
+            "fee_sat": 3750,
+            "vsize": 375,
+            "feerate_sat_vb": 10.0,
+            "id": "20394431783daadeadf5150756fd3a329be4ac7776fe8975b7026b8ef1134910"
+        },
+        {
+            "txid": "31acd17fc2541eb422465b14c0c8c8030aa755991b1bf5384e8b07c062acc9ef",
+            "fee_sat": 100000,
+            "vsize": 110,
+            "feerate_sat_vb": 909.0909,
+            "id": "31acd17fc2541eb422465b14c0c8c8030aa755991b1bf5384e8b07c062acc9ef"
+        },
+        {
+            "txid": "3ebc4a840d472fd93950bba632289dcbc31ff0678b948c9985c77091c4b1b79b",
+            "fee_sat": 16920,
+            "vsize": 141,
+            "feerate_sat_vb": 120.0,
+            "id": "3ebc4a840d472fd93950bba632289dcbc31ff0678b948c9985c77091c4b1b79b"
+        },
+        {
+            "txid": "752cdd6e7a83287faef91fec65772175c8f050ce3c64cdc2773eef3c3179b109",
+            "fee_sat": 1410,
+            "vsize": 141,
+            "feerate_sat_vb": 10.0,
+            "id": "752cdd6e7a83287faef91fec65772175c8f050ce3c64cdc2773eef3c3179b109"
+        }
+    ],
+    "edges": [
+        {
+            "source": "20394431783daadeadf5150756fd3a329be4ac7776fe8975b7026b8ef1134910",
+            "target": "31acd17fc2541eb422465b14c0c8c8030aa755991b1bf5384e8b07c062acc9ef"
+        },
+        {
+            "source": "20394431783daadeadf5150756fd3a329be4ac7776fe8975b7026b8ef1134910",
+            "target": "752cdd6e7a83287faef91fec65772175c8f050ce3c64cdc2773eef3c3179b109"
+        }
+    ]
+}

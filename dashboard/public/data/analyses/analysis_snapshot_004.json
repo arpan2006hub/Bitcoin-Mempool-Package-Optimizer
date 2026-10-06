@@ -1,0 +1,89 @@
+{
+    "snapshot_time": "2026-09-27T18:10:49.692897+00:00",
+    "transaction_count": 4,
+    "transactions": {
+        "4132bdfb7355dc6bc834539b1792c42141c921be58f54517ed87625de85dd2f8": {
+            "txid": "4132bdfb7355dc6bc834539b1792c42141c921be58f54517ed87625de85dd2f8",
+            "vsize": 172,
+            "weight": 685,
+            "fee_btc": 1.72e-06,
+            "fee_sat": 172,
+            "feerate_sat_vb": 1.0,
+            "ancestor_count": 1,
+            "ancestor_vsize": 172,
+            "ancestor_fee_sat": 172,
+            "package_fee_sat": 172,
+            "package_vsize": 172,
+            "package_feerate_sat_vb": 1.0,
+            "descendant_count": 3,
+            "descendant_vsize": 392,
+            "descendant_fee_sat": 52172,
+            "depends": [],
+            "spent_by": [
+                "fe3e4bf36edd73a0201aede8737937da85be6b9f9926b03e13dee93865be9b10",
+                "db8609d32e908f3906bb26e32d031b5fb7b4f78289967ee151997e80c70d14b2"
+            ]
+        },
+        "fe3e4bf36edd73a0201aede8737937da85be6b9f9926b03e13dee93865be9b10": {
+            "txid": "fe3e4bf36edd73a0201aede8737937da85be6b9f9926b03e13dee93865be9b10",
+            "vsize": 110,
+            "weight": 437,
+            "fee_btc": 0.0005,
+            "fee_sat": 50000,
+            "feerate_sat_vb": 454.5455,
+            "ancestor_count": 2,
+            "ancestor_vsize": 282,
+            "ancestor_fee_sat": 50172,
+            "package_fee_sat": 50172,
+            "package_vsize": 282,
+            "package_feerate_sat_vb": 177.9149,
+            "descendant_count": 1,
+            "descendant_vsize": 110,
+            "descendant_fee_sat": 50000,
+            "depends": [
+                "4132bdfb7355dc6bc834539b1792c42141c921be58f54517ed87625de85dd2f8"
+            ],
+            "spent_by": []
+        },
+        "976cf28332f000d02478fc5176fdd96e03e8a63f4ddd58b0fa01dd7367d0d22e": {
+            "txid": "976cf28332f000d02478fc5176fdd96e03e8a63f4ddd58b0fa01dd7367d0d22e",
+            "vsize": 141,
+            "weight": 561,
+            "fee_btc": 0.0001692,
+            "fee_sat": 16920,
+            "feerate_sat_vb": 120.0,
+            "ancestor_count": 1,
+            "ancestor_vsize": 141,
+            "ancestor_fee_sat": 16920,
+            "package_fee_sat": 16920,
+            "package_vsize": 141,
+            "package_feerate_sat_vb": 120.0,
+            "descendant_count": 1,
+            "descendant_vsize": 141,
+            "descendant_fee_sat": 16920,
+            "depends": [],
+            "spent_by": []
+        },
+        "db8609d32e908f3906bb26e32d031b5fb7b4f78289967ee151997e80c70d14b2": {
+            "txid": "db8609d32e908f3906bb26e32d031b5fb7b4f78289967ee151997e80c70d14b2",
+            "vsize": 110,
+            "weight": 437,
+            "fee_btc": 2e-05,
+            "fee_sat": 2000,
+            "feerate_sat_vb": 18.1818,
+            "ancestor_count": 2,
+            "ancestor_vsize": 282,
+            "ancestor_fee_sat": 2172,
+            "package_fee_sat": 2172,
+            "package_vsize": 282,
+            "package_feerate_sat_vb": 7.7021,
+            "descendant_count": 1,
+            "descendant_vsize": 110,
+            "descendant_fee_sat": 2000,
+            "depends": [
+                "4132bdfb7355dc6bc834539b1792c42141c921be58f54517ed87625de85dd2f8"
+            ],
+            "spent_by": []
+        }
+    }
+}

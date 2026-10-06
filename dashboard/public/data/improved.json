@@ -1,0 +1,26 @@
+{
+    "algorithm": "improved_dependency_aware",
+    "block_vsize_limit": 320,
+    "transactions_selected": 1,
+    "total_fee_sat": 16920,
+    "total_vsize": 141,
+    "block_utilization": 0.440625,
+    "effective_feerate_sat_vb": 120.0,
+    "selected_order": [
+        "3ebc4a840d472fd93950bba632289dcbc31ff0678b948c9985c77091c4b1b79b"
+    ],
+    "iterations": [
+        {
+            "selected_for": "3ebc4a840d472fd93950bba632289dcbc31ff0678b948c9985c77091c4b1b79b",
+            "package": [
+                "3ebc4a840d472fd93950bba632289dcbc31ff0678b948c9985c77091c4b1b79b"
+            ],
+            "package_fee_sat": 16920,
+            "package_vsize": 141,
+            "package_feerate_sat_vb": 120.0,
+            "dependency_depth": 0,
+            "future_child_potential": 0.0,
+            "score": 128.308125
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "baseline": {
+        "analysis_file": "data\\results\\analysis_snapshot_004.json",
+        "max_block_weight": 4000000,
+        "selected_order": [
+            "4132bdfb7355dc6bc834539b1792c42141c921be58f54517ed87625de85dd2f8",
+            "976cf28332f000d02478fc5176fdd96e03e8a63f4ddd58b0fa01dd7367d0d22e",
+            "db8609d32e908f3906bb26e32d031b5fb7b4f78289967ee151997e80c70d14b2",
+            "fe3e4bf36edd73a0201aede8737937da85be6b9f9926b03e13dee93865be9b10"
+        ],
+        "included_transactions": [
+            "4132bdfb7355dc6bc834539b1792c42141c921be58f54517ed87625de85dd2f8",
+            "976cf28332f000d02478fc5176fdd96e03e8a63f4ddd58b0fa01dd7367d0d22e",
+            "db8609d32e908f3906bb26e32d031b5fb7b4f78289967ee151997e80c70d14b2",
+            "fe3e4bf36edd73a0201aede8737937da85be6b9f9926b03e13dee93865be9b10"
+        ],
+        "included_transaction_count": 4,
+        "skipped_transactions": [],
+        "skipped_transaction_count": 0,
+        "total_fee_sat": 69092,
+        "total_fee_btc": 0.00069092,
+        "total_vsize": 533,
+        "total_weight": 2120,
+        "block_weight_utilization": 0.00053,
+        "block_weight_utilization_percent": 0.053,
+        "effective_feerate_sat_vb": 129.62851782363978,
+        "algorithm": "baseline"
+    },
+    "optimizer": {
+        "analysis_file": "data\\results\\analysis_snapshot_004.json",
+        "max_block_weight": 4000000,
+        "selected_order": [
+            "4132bdfb7355dc6bc834539b1792c42141c921be58f54517ed87625de85dd2f8",
+            "976cf28332f000d02478fc5176fdd96e03e8a63f4ddd58b0fa01dd7367d0d22e",
+            "db8609d32e908f3906bb26e32d031b5fb7b4f78289967ee151997e80c70d14b2",
+            "fe3e4bf36edd73a0201aede8737937da85be6b9f9926b03e13dee93865be9b10"
+        ],
+        "included_transactions": [
+            "4132bdfb7355dc6bc834539b1792c42141c921be58f54517ed87625de85dd2f8",
+            "976cf28332f000d02478fc5176fdd96e03e8a63f4ddd58b0fa01dd7367d0d22e",
+            "db8609d32e908f3906bb26e32d031b5fb7b4f78289967ee151997e80c70d14b2",
+            "fe3e4bf36edd73a0201aede8737937da85be6b9f9926b03e13dee93865be9b10"
+        ],
+        "included_transaction_count": 4,
+        "skipped_transactions": [],
+        "skipped_transaction_count": 0,
+        "total_fee_sat": 69092,
+        "total_fee_btc": 0.00069092,
+        "total_vsize": 533,
+        "total_weight": 2120,
+        "block_weight_utilization": 0.00053,
+        "block_weight_utilization_percent": 0.053,
+        "effective_feerate_sat_vb": 129.62851782363978,
+        "algorithm": "optimizer"
+    }
+}

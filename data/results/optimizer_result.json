@@ -1,0 +1,12 @@
+{
+    "algorithm": "dependency_aware_package",
+    "block_vsize_limit": 320,
+    "selected_transactions": [
+        "3ebc4a840d472fd93950bba632289dcbc31ff0678b948c9985c77091c4b1b79b"
+    ],
+    "transaction_count": 1,
+    "total_fee_sat": 16920,
+    "total_vsize": 141,
+    "effective_feerate_sat_vb": 120.0,
+    "iterations": 2
+}

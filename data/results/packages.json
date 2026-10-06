@@ -1,0 +1,48 @@
+{
+    "20394431783daadeadf5150756fd3a329be4ac7776fe8975b7026b8ef1134910": {
+        "candidate_txid": "20394431783daadeadf5150756fd3a329be4ac7776fe8975b7026b8ef1134910",
+        "transactions": [
+            "20394431783daadeadf5150756fd3a329be4ac7776fe8975b7026b8ef1134910"
+        ],
+        "transaction_count": 1,
+        "total_fee_sat": 3750,
+        "total_vsize": 375,
+        "package_feerate_sat_vb": 10.0,
+        "dependency_depth": 0
+    },
+    "31acd17fc2541eb422465b14c0c8c8030aa755991b1bf5384e8b07c062acc9ef": {
+        "candidate_txid": "31acd17fc2541eb422465b14c0c8c8030aa755991b1bf5384e8b07c062acc9ef",
+        "transactions": [
+            "20394431783daadeadf5150756fd3a329be4ac7776fe8975b7026b8ef1134910",
+            "31acd17fc2541eb422465b14c0c8c8030aa755991b1bf5384e8b07c062acc9ef"
+        ],
+        "transaction_count": 2,
+        "total_fee_sat": 103750,
+        "total_vsize": 485,
+        "package_feerate_sat_vb": 213.9175,
+        "dependency_depth": 1
+    },
+    "3ebc4a840d472fd93950bba632289dcbc31ff0678b948c9985c77091c4b1b79b": {
+        "candidate_txid": "3ebc4a840d472fd93950bba632289dcbc31ff0678b948c9985c77091c4b1b79b",
+        "transactions": [
+            "3ebc4a840d472fd93950bba632289dcbc31ff0678b948c9985c77091c4b1b79b"
+        ],
+        "transaction_count": 1,
+        "total_fee_sat": 16920,
+        "total_vsize": 141,
+        "package_feerate_sat_vb": 120.0,
+        "dependency_depth": 0
+    },
+    "752cdd6e7a83287faef91fec65772175c8f050ce3c64cdc2773eef3c3179b109": {
+        "candidate_txid": "752cdd6e7a83287faef91fec65772175c8f050ce3c64cdc2773eef3c3179b109",
+        "transactions": [
+            "20394431783daadeadf5150756fd3a329be4ac7776fe8975b7026b8ef1134910",
+            "752cdd6e7a83287faef91fec65772175c8f050ce3c64cdc2773eef3c3179b109"
+        ],
+        "transaction_count": 2,
+        "total_fee_sat": 5160,
+        "total_vsize": 516,
+        "package_feerate_sat_vb": 10.0,
+        "dependency_depth": 1
+    }
+}

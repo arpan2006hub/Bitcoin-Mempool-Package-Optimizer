@@ -1,0 +1,57 @@
+[
+    {
+        "id": "001",
+        "name": "Snapshot 001",
+        "snapshot_file": "snapshot_001.json",
+        "analysis_file": "analysis_snapshot_001.json",
+        "snapshot_time": "2026-09-24T03:41:19.441350+00:00",
+        "transaction_count": 0,
+        "total_vsize": 0,
+        "total_fee_sat": 0,
+        "avg_feerate_sat_vb": 0.0
+    },
+    {
+        "id": "002",
+        "name": "Snapshot 002",
+        "snapshot_file": "snapshot_002.json",
+        "analysis_file": null,
+        "snapshot_time": "2026-09-24T03:45:44.239583+00:00",
+        "transaction_count": 0,
+        "total_vsize": 0,
+        "total_fee_sat": 0,
+        "avg_feerate_sat_vb": 0.0
+    },
+    {
+        "id": "003",
+        "name": "Snapshot 003",
+        "snapshot_file": "snapshot_003.json",
+        "analysis_file": "analysis_snapshot_003.json",
+        "snapshot_time": "2026-09-27T05:38:18.429752+00:00",
+        "transaction_count": 4,
+        "total_vsize": 631,
+        "total_fee_sat": 63100,
+        "avg_feerate_sat_vb": 100.0
+    },
+    {
+        "id": "004",
+        "name": "Snapshot 004",
+        "snapshot_file": "snapshot_004.json",
+        "analysis_file": "analysis_snapshot_004.json",
+        "snapshot_time": "2026-09-27T18:10:49.692897+00:00",
+        "transaction_count": 4,
+        "total_vsize": 533,
+        "total_fee_sat": 69092,
+        "avg_feerate_sat_vb": 129.63
+    },
+    {
+        "id": "005",
+        "name": "Snapshot 005",
+        "snapshot_file": "snapshot_005.json",
+        "analysis_file": "analysis_snapshot_005.json",
+        "snapshot_time": "2026-09-27T22:23:35.809338+00:00",
+        "transaction_count": 4,
+        "total_vsize": 767,
+        "total_fee_sat": 122080,
+        "avg_feerate_sat_vb": 159.17
+    }
+]

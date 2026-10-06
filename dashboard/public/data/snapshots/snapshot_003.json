@@ -1,0 +1,110 @@
+{
+    "snapshot_time": "2026-09-27T05:38:18.429752+00:00",
+    "transaction_count": 4,
+    "transactions": {
+        "0d56ecd17e6f54acc759b6e185e7ecba5795ee2c61fa43f6bb9369cf443d450c": {
+            "vsize": 208,
+            "weight": 832,
+            "time": 1790484058,
+            "height": 306,
+            "descendantcount": 4,
+            "descendantsize": 631,
+            "ancestorcount": 1,
+            "ancestorsize": 208,
+            "wtxid": "ab65b74f09a2822c0573b8341eef890337a2ff9700ee316b9969f323c38c12da",
+            "chunkweight": 2515,
+            "fees": {
+                "base": 2.08e-06,
+                "modified": 2.08e-06,
+                "ancestor": 2.08e-06,
+                "descendant": 0.000631,
+                "chunk": 0.000631
+            },
+            "depends": [],
+            "spentby": [
+                "6702c305dca24d15874cde74ff3ea77b1c817737c20b686638e16a8f83c3c5f6"
+            ],
+            "bip125-replaceable": true,
+            "unbroadcast": true
+        },
+        "6702c305dca24d15874cde74ff3ea77b1c817737c20b686638e16a8f83c3c5f6": {
+            "vsize": 141,
+            "weight": 561,
+            "time": 1790485683,
+            "height": 306,
+            "descendantcount": 3,
+            "descendantsize": 423,
+            "ancestorcount": 2,
+            "ancestorsize": 349,
+            "wtxid": "ba7332c220b6eb30fcc78eab286b9943b41c10d8f24edd9a8d57cebecd27930c",
+            "chunkweight": 2515,
+            "fees": {
+                "base": 0.00034692,
+                "modified": 0.00034692,
+                "ancestor": 0.000349,
+                "descendant": 0.00062892,
+                "chunk": 0.000631
+            },
+            "depends": [
+                "0d56ecd17e6f54acc759b6e185e7ecba5795ee2c61fa43f6bb9369cf443d450c"
+            ],
+            "spentby": [
+                "91be765d56524a5543335610d0d3aa2f3a97535d6ff8ac40f83b7a685f13e958"
+            ],
+            "bip125-replaceable": true,
+            "unbroadcast": true
+        },
+        "91be765d56524a5543335610d0d3aa2f3a97535d6ff8ac40f83b7a685f13e958": {
+            "vsize": 141,
+            "weight": 561,
+            "time": 1790486167,
+            "height": 306,
+            "descendantcount": 2,
+            "descendantsize": 282,
+            "ancestorcount": 3,
+            "ancestorsize": 490,
+            "wtxid": "81cd3fc40fdd4ed260ae09cd96d74d20646bdbf8b3d0eb90bddc6d5c5618a4ac",
+            "chunkweight": 2515,
+            "fees": {
+                "base": 0.000141,
+                "modified": 0.000141,
+                "ancestor": 0.00049,
+                "descendant": 0.000282,
+                "chunk": 0.000631
+            },
+            "depends": [
+                "6702c305dca24d15874cde74ff3ea77b1c817737c20b686638e16a8f83c3c5f6"
+            ],
+            "spentby": [
+                "b8afc9848a1539744e09ff92a0d1322cea334898164ed389c8bcab2c7e831265"
+            ],
+            "bip125-replaceable": true,
+            "unbroadcast": true
+        },
+        "b8afc9848a1539744e09ff92a0d1322cea334898164ed389c8bcab2c7e831265": {
+            "vsize": 141,
+            "weight": 561,
+            "time": 1790487048,
+            "height": 306,
+            "descendantcount": 1,
+            "descendantsize": 141,
+            "ancestorcount": 4,
+            "ancestorsize": 631,
+            "wtxid": "b4c70afd5f6ef2454d646639122e55dca5572fb818403afcbbb54f38ee24c385",
+            "chunkweight": 2515,
+            "fees": {
+                "base": 0.000141,
+                "modified": 0.000141,
+                "ancestor": 0.000631,
+                "descendant": 0.000141,
+                "chunk": 0.000631
+            },
+            "depends": [
+                "91be765d56524a5543335610d0d3aa2f3a97535d6ff8ac40f83b7a685f13e958"
+            ],
+            "spentby": [],
+            "bip125-replaceable": true,
+            "unbroadcast": true
+        }
+    }
+}
