@@ -1,6 +1,6 @@
 # Bitcoin Mempool Package Optimizer
 
-A Python and React-based research framework and simulation tool for evaluating **dependency-aware transaction package selection** and **block template construction** in Bitcoin.
+A Python based research framework and simulation tool for evaluating **dependency-aware transaction package selection** and **block template construction** in Bitcoin.
 
 ---
 
